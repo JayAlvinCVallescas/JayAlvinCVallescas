@@ -9,6 +9,7 @@
   - :framed_picture: Steganography, 
   - :mag: Investigation, 
   - :computer: Computer Troubleshoot
+  - ⛄Web Developer
 <br>
 
 # 💻 Tech Stack:
